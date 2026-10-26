@@ -72,7 +72,7 @@ export function Analyzer() {
     setError("");
   }
 
-  function scoreFacts(next: Facts) {
+  async function scoreFacts(next: Facts) {
     const result = runPackage(next);
     if (!result.ok) {
       setPack(null);
@@ -93,11 +93,29 @@ export function Analyzer() {
       writeArchive([row, ...existing].slice(0, 200));
       appendSearch(result.pack);
     }
+    const filed = await fileSearch(result.pack);
     setLogged(
       duplicate
         ? "This score is already the latest row in the deal book."
-        : `Logged ${row.address} in this browser.`,
+        : `Logged ${row.address} in this browser.${filed}`,
     );
+  }
+
+  async function fileSearch(pack: ScorePackage) {
+    try {
+      const response = await fetch("/api/searches", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(pack),
+      });
+      if (!response.ok) return "";
+      const body = (await response.json()) as { added?: boolean };
+      return body.added
+        ? " Added to the search results page."
+        : " Already on the search results page.";
+    } catch {
+      return "";
+    }
   }
 
   function loadSample() {

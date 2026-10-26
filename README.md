@@ -18,6 +18,12 @@ Paste a Zillow link, another website link, a street address, or an NWMLS number.
 
 A score of 8 or higher prepares an iPhone-sized brief. Lower scores stay on the desk. The brief is a preview. This app does not send text messages and does not store a mailbox password.
 
+<a href="docs/SEARCH_RESULTS.md">
+  <img src="docs/search-results-button.png" alt="Search results" width="360">
+</a>
+
+Every house scored on this desk is on that page. The next search built here is added to the list.
+
 ## Run
 
 ```bash

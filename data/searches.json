@@ -1,0 +1,1983 @@
+[
+  {
+    "id": "AFH-mvotlvc0",
+    "savedAt": "Oct 25, 2026, 10:33 PM PT",
+    "pack": {
+      "facts": {
+        "address": "Sample Rambler SW, Tumwater WA",
+        "listPrice": 495000,
+        "beds": 3,
+        "baths": 2,
+        "garageSpaces": 2,
+        "garageSqft": 440,
+        "sewer": "public",
+        "septicSixBedApproved": false,
+        "sqft": 1680,
+        "hoaAnnual": 0,
+        "county": "thurston",
+        "within30Miles": "yes",
+        "levelEntry": "yes",
+        "ceilingClear": "yes",
+        "remarks": "Worked example, not a live listing.",
+        "sourceType": "zillow",
+        "sourceRef": "https://www.zillow.com/homedetails/Sample-Rambler-SW-Tumwater-WA-98512/00000000_zpid/",
+        "mlsNumber": ""
+      },
+      "prices": [
+        450000,
+        475000,
+        500000,
+        525000,
+        550000
+      ],
+      "rents": [
+        3500,
+        4125,
+        4750,
+        5375,
+        6000
+      ],
+      "grid": [
+        {
+          "purchasePrice": 450000,
+          "monthlyRent": 6000,
+          "atListPrice": false,
+          "stack": {
+            "downPayment": 112500,
+            "loanAmount": 337500,
+            "remodeling": 60000,
+            "extra": 10000,
+            "holding": 20000,
+            "totalCashInvested": 202500,
+            "notes": []
+          },
+          "ops": {
+            "monthlyPrincipalInterest": 2189.0185759177275,
+            "monthlyTax": 431.25,
+            "monthlyInsurance": 183.33333333333334,
+            "monthlyHoa": 0,
+            "monthlyOperating": 480,
+            "totalMonthlyOutflow": 3283.601909251061,
+            "monthlyCashFlow": 2716.398090748939,
+            "annualCashFlow": 32596.77708898727,
+            "sixMonthCarry": 16821.611455506365,
+            "holdingGap": -3178.388544493635
+          },
+          "cashFlows": [
+            -202500,
+            32596.77708898727,
+            34105.27708898726,
+            35652.227088987245,
+            37238.60308898724,
+            38865.405783987226,
+            40533.66118726222,
+            42244.421269337094,
+            43998.7646130562,
+            45797.79708515247,
+            364514.15151409444
+          ],
+          "npv": 191959.54901476437,
+          "irr": 0.20602819071553338,
+          "paybackYears": 6.212270601083874,
+          "roi": 0.16097173871104825,
+          "judgement": {
+            "score": 10,
+            "verdict": "Invest",
+            "reasons": [
+              "Cash-on-cash return is at least 11% and monthly cash flow clears $1,800 on this lease test.",
+              "Six-month carry is $16,822, inside the $20,000 hold.",
+              "Evidence on this row: cash flow $2,716/mo, ROI 16.1%, cash in $202,500."
+            ]
+          }
+        },
+        {
+          "purchasePrice": 475000,
+          "monthlyRent": 6000,
+          "atListPrice": false,
+          "stack": {
+            "downPayment": 118750,
+            "loanAmount": 356250,
+            "remodeling": 60000,
+            "extra": 10000,
+            "holding": 20000,
+            "totalCashInvested": 208750,
+            "notes": []
+          },
+          "ops": {
+            "monthlyPrincipalInterest": 2310.630719024268,
+            "monthlyTax": 455.2083333333333,
+            "monthlyInsurance": 183.33333333333334,
+            "monthlyHoa": 0,
+            "monthlyOperating": 480,
+            "totalMonthlyOutflow": 3429.172385690935,
+            "monthlyCashFlow": 2570.827614309065,
+            "annualCashFlow": 30849.931371708783,
+            "sixMonthCarry": 17695.03431414561,
+            "holdingGap": -2304.9656858543894
+          },
+          "cashFlows": [
+            -208750,
+            30849.931371708783,
+            32352.681371708775,
+            33893.76637170877,
+            35474.16007170876,
+            37094.86082070875,
+            38756.892239063745,
+            40461.30385652021,
+            42209.171766328545,
+            44001.59929583584,
+            380315.1888494128
+          ],
+          "npv": 181881.85000395597,
+          "irr": 0.19517649253792604,
+          "paybackYears": 6.766627694719481,
+          "roi": 0.14778410237944328,
+          "judgement": {
+            "score": 10,
+            "verdict": "Invest",
+            "reasons": [
+              "Cash-on-cash return is at least 11% and monthly cash flow clears $1,800 on this lease test.",
+              "Six-month carry is $17,695, inside the $20,000 hold.",
+              "Evidence on this row: cash flow $2,571/mo, ROI 14.8%, cash in $208,750."
+            ]
+          }
+        },
+        {
+          "purchasePrice": 500000,
+          "monthlyRent": 6000,
+          "atListPrice": false,
+          "stack": {
+            "downPayment": 125000,
+            "loanAmount": 375000,
+            "remodeling": 60000,
+            "extra": 10000,
+            "holding": 20000,
+            "totalCashInvested": 215000,
+            "notes": []
+          },
+          "ops": {
+            "monthlyPrincipalInterest": 2432.2428621308086,
+            "monthlyTax": 479.1666666666667,
+            "monthlyInsurance": 183.33333333333334,
+            "monthlyHoa": 0,
+            "monthlyOperating": 480,
+            "totalMonthlyOutflow": 3574.7428621308086,
+            "monthlyCashFlow": 2425.2571378691914,
+            "annualCashFlow": 29103.085654430295,
+            "sixMonthCarry": 18568.457172784852,
+            "holdingGap": -1431.5428272151476
+          },
+          "cashFlows": [
+            -215000,
+            29103.085654430295,
+            30600.085654430288,
+            32135.30565443028,
+            33709.717054430264,
+            35324.31585743026,
+            36980.12329086525,
+            38678.186443703315,
+            40419.578919600885,
+            42205.4015065192,
+            396116.22618473123
+          ],
+          "npv": 171804.15099314754,
+          "irr": 0.1851122872437769,
+          "paybackYears": 7.387532805040246,
+          "roi": 0.13536318909037345,
+          "judgement": {
+            "score": 10,
+            "verdict": "Invest",
+            "reasons": [
+              "Cash-on-cash return is at least 11% and monthly cash flow clears $1,800 on this lease test.",
+              "Six-month carry is $18,568, inside the $20,000 hold.",
+              "Evidence on this row: cash flow $2,425/mo, ROI 13.5%, cash in $215,000."
+            ]
+          }
+        },
+        {
+          "purchasePrice": 450000,
+          "monthlyRent": 5375,
+          "atListPrice": false,
+          "stack": {
+            "downPayment": 112500,
+            "loanAmount": 337500,
+            "remodeling": 60000,
+            "extra": 10000,
+            "holding": 20000,
+            "totalCashInvested": 202500,
+            "notes": []
+          },
+          "ops": {
+            "monthlyPrincipalInterest": 2189.0185759177275,
+            "monthlyTax": 431.25,
+            "monthlyInsurance": 183.33333333333334,
+            "monthlyHoa": 0,
+            "monthlyOperating": 430,
+            "totalMonthlyOutflow": 3233.601909251061,
+            "monthlyCashFlow": 2141.398090748939,
+            "annualCashFlow": 25696.77708898727,
+            "sixMonthCarry": 16821.611455506365,
+            "holdingGap": -3178.388544493635
+          },
+          "cashFlows": [
+            -202500,
+            25696.77708898727,
+            27032.77708898726,
+            28402.914588987245,
+            29808.057776487236,
+            31249.096838674726,
+            32726.944518316915,
+            34242.53668366815,
+            35796.83291274553,
+            37390.81709233404,
+            355896.99702145555
+          ],
+          "npv": 142068.2622646675,
+          "irr": 0.17418356333871687,
+          "paybackYears": 7.880365669933929,
+          "roi": 0.12689766463697416,
+          "judgement": {
+            "score": 10,
+            "verdict": "Invest",
+            "reasons": [
+              "Cash-on-cash return is at least 11% and monthly cash flow clears $1,800 on this lease test.",
+              "Six-month carry is $16,822, inside the $20,000 hold.",
+              "Evidence on this row: cash flow $2,141/mo, ROI 12.7%, cash in $202,500."
+            ]
+          }
+        },
+        {
+          "purchasePrice": 525000,
+          "monthlyRent": 6000,
+          "atListPrice": false,
+          "stack": {
+            "downPayment": 131250,
+            "loanAmount": 393750,
+            "remodeling": 60000,
+            "extra": 10000,
+            "holding": 20000,
+            "totalCashInvested": 221250,
+            "notes": []
+          },
+          "ops": {
+            "monthlyPrincipalInterest": 2553.8550052373494,
+            "monthlyTax": 503.125,
+            "monthlyInsurance": 183.33333333333334,
+            "monthlyHoa": 0,
+            "monthlyOperating": 480,
+            "totalMonthlyOutflow": 3720.313338570683,
+            "monthlyCashFlow": 2279.686661429317,
+            "annualCashFlow": 27356.239937151804,
+            "sixMonthCarry": 19441.880031424098,
+            "holdingGap": -558.119968575902
+          },
+          "cashFlows": [
+            -221250,
+            27356.239937151804,
+            28847.489937151797,
+            30376.844937151793,
+            31945.27403715178,
+            33553.77089415176,
+            35203.35434266676,
+            36895.06903088643,
+            38629.98607287323,
+            40409.20371720256,
+            411917.2635200497
+          ],
+          "npv": 161726.45198233915,
+          "irr": 0.1757605035993305,
+          "paybackYears": 8.08773429785305,
+          "roi": 0.12364402231481042,
+          "judgement": {
+            "score": 10,
+            "verdict": "Invest",
+            "reasons": [
+              "Cash-on-cash return is at least 11% and monthly cash flow clears $1,800 on this lease test.",
+              "Six-month carry is $19,442, inside the $20,000 hold.",
+              "Evidence on this row: cash flow $2,280/mo, ROI 12.4%, cash in $221,250."
+            ]
+          }
+        },
+        {
+          "purchasePrice": 475000,
+          "monthlyRent": 5375,
+          "atListPrice": false,
+          "stack": {
+            "downPayment": 118750,
+            "loanAmount": 356250,
+            "remodeling": 60000,
+            "extra": 10000,
+            "holding": 20000,
+            "totalCashInvested": 208750,
+            "notes": []
+          },
+          "ops": {
+            "monthlyPrincipalInterest": 2310.630719024268,
+            "monthlyTax": 455.2083333333333,
+            "monthlyInsurance": 183.33333333333334,
+            "monthlyHoa": 0,
+            "monthlyOperating": 430,
+            "totalMonthlyOutflow": 3379.172385690935,
+            "monthlyCashFlow": 1995.8276143090652,
+            "annualCashFlow": 23949.931371708783,
+            "sixMonthCarry": 17695.03431414561,
+            "holdingGap": -2304.9656858543894
+          },
+          "cashFlows": [
+            -208750,
+            23949.931371708783,
+            25280.181371708775,
+            26644.45387170877,
+            28043.614759208755,
+            29478.551875396246,
+            30950.17557011843,
+            32459.41927085127,
+            34007.240066017876,
+            35594.61930301741,
+            371698.03435677383
+          ],
+          "npv": 131990.56325385903,
+          "irr": 0.16457818102104002,
+          "paybackYears": 8.716100132403264,
+          "roi": 0.11473021016387441,
+          "judgement": {
+            "score": 10,
+            "verdict": "Invest",
+            "reasons": [
+              "Cash-on-cash return is at least 11% and monthly cash flow clears $1,800 on this lease test.",
+              "Six-month carry is $17,695, inside the $20,000 hold.",
+              "Evidence on this row: cash flow $1,996/mo, ROI 11.5%, cash in $208,750."
+            ]
+          }
+        },
+        {
+          "purchasePrice": 550000,
+          "monthlyRent": 6000,
+          "atListPrice": false,
+          "stack": {
+            "downPayment": 137500,
+            "loanAmount": 412500,
+            "remodeling": 60000,
+            "extra": 10000,
+            "holding": 20000,
+            "totalCashInvested": 227500,
+            "notes": []
+          },
+          "ops": {
+            "monthlyPrincipalInterest": 2675.467148343889,
+            "monthlyTax": 527.0833333333334,
+            "monthlyInsurance": 183.33333333333334,
+            "monthlyHoa": 0,
+            "monthlyOperating": 480,
+            "totalMonthlyOutflow": 3865.883815010556,
+            "monthlyCashFlow": 2134.116184989444,
+            "annualCashFlow": 25609.394219873328,
+            "sixMonthCarry": 20315.302890063336,
+            "holdingGap": 315.30289006333624
+          },
+          "cashFlows": [
+            -227500,
+            25609.394219873328,
+            27094.89421987332,
+            28618.38421987331,
+            30180.8310198733,
+            31783.22593087329,
+            33426.58539446829,
+            35111.95161806955,
+            36840.393226145585,
+            38613.00592788593,
+            427718.3008553678
+          ],
+          "npv": 151648.75297153072,
+          "irr": 0.16705445327288646,
+          "paybackYears": 8.883458860711984,
+          "roi": 0.112568765801641,
+          "judgement": {
+            "score": 10,
+            "verdict": "Invest",
+            "reasons": [
+              "Cash-on-cash return is at least 11% and monthly cash flow clears $1,800 on this lease test.",
+              "Six-month carry is $20,315, just over the $20,000 hold.",
+              "Evidence on this row: cash flow $2,134/mo, ROI 11.3%, cash in $227,500."
+            ]
+          }
+        },
+        {
+          "purchasePrice": 500000,
+          "monthlyRent": 5375,
+          "atListPrice": false,
+          "stack": {
+            "downPayment": 125000,
+            "loanAmount": 375000,
+            "remodeling": 60000,
+            "extra": 10000,
+            "holding": 20000,
+            "totalCashInvested": 215000,
+            "notes": []
+          },
+          "ops": {
+            "monthlyPrincipalInterest": 2432.2428621308086,
+            "monthlyTax": 479.1666666666667,
+            "monthlyInsurance": 183.33333333333334,
+            "monthlyHoa": 0,
+            "monthlyOperating": 430,
+            "totalMonthlyOutflow": 3524.7428621308086,
+            "monthlyCashFlow": 1850.2571378691914,
+            "annualCashFlow": 22203.085654430295,
+            "sixMonthCarry": 18568.457172784852,
+            "holdingGap": -1431.5428272151476
+          },
+          "cashFlows": [
+            -215000,
+            22203.085654430295,
+            23527.585654430288,
+            24885.99315443028,
+            26279.171741930266,
+            27708.006912117755,
+            29173.40662191994,
+            30676.301858034378,
+            32217.64721929021,
+            33798.42151370077,
+            387499.07169209234
+          ],
+          "npv": 121912.86424305063,
+          "irr": 0.1556836862871575,
+          "paybackYears": 9.683338764092007,
+          "roi": 0.10327016583455952,
+          "judgement": {
+            "score": 8,
+            "verdict": "Invest",
+            "reasons": [
+              "Return clears 8% with at least $1,000 a month of cash flow after the conversion budget.",
+              "Six-month carry is $18,568, inside the $20,000 hold.",
+              "Evidence on this row: cash flow $1,850/mo, ROI 10.3%, cash in $215,000."
+            ]
+          }
+        },
+        {
+          "purchasePrice": 450000,
+          "monthlyRent": 4750,
+          "atListPrice": false,
+          "stack": {
+            "downPayment": 112500,
+            "loanAmount": 337500,
+            "remodeling": 60000,
+            "extra": 10000,
+            "holding": 20000,
+            "totalCashInvested": 202500,
+            "notes": []
+          },
+          "ops": {
+            "monthlyPrincipalInterest": 2189.0185759177275,
+            "monthlyTax": 431.25,
+            "monthlyInsurance": 183.33333333333334,
+            "monthlyHoa": 0,
+            "monthlyOperating": 380,
+            "totalMonthlyOutflow": 3183.601909251061,
+            "monthlyCashFlow": 1566.398090748939,
+            "annualCashFlow": 18796.77708898727,
+            "sixMonthCarry": 16821.611455506365,
+            "holdingGap": -3178.388544493635
+          },
+          "cashFlows": [
+            -202500,
+            18796.77708898727,
+            19960.27708898727,
+            21153.602088987263,
+            22377.512463987267,
+            23632.787893362263,
+            24920.227849371637,
+            26240.652097999242,
+            27594.901212434896,
+            28983.837099515637,
+            347279.84252881666
+          ],
+          "npv": 92176.97551457077,
+          "irr": 0.14260194743597876,
+          "paybackYears": 10.773123447776667,
+          "roi": 0.0928235905629001,
+          "judgement": {
+            "score": 8,
+            "verdict": "Invest",
+            "reasons": [
+              "Return clears 8% with at least $1,000 a month of cash flow after the conversion budget.",
+              "Six-month carry is $16,822, inside the $20,000 hold.",
+              "Evidence on this row: cash flow $1,566/mo, ROI 9.3%, cash in $202,500."
+            ]
+          }
+        },
+        {
+          "purchasePrice": 525000,
+          "monthlyRent": 5375,
+          "atListPrice": false,
+          "stack": {
+            "downPayment": 131250,
+            "loanAmount": 393750,
+            "remodeling": 60000,
+            "extra": 10000,
+            "holding": 20000,
+            "totalCashInvested": 221250,
+            "notes": []
+          },
+          "ops": {
+            "monthlyPrincipalInterest": 2553.8550052373494,
+            "monthlyTax": 503.125,
+            "monthlyInsurance": 183.33333333333334,
+            "monthlyHoa": 0,
+            "monthlyOperating": 430,
+            "totalMonthlyOutflow": 3670.313338570683,
+            "monthlyCashFlow": 1704.6866614293172,
+            "annualCashFlow": 20456.239937151804,
+            "sixMonthCarry": 19441.880031424098,
+            "holdingGap": -558.119968575902
+          },
+          "cashFlows": [
+            -221250,
+            20456.239937151804,
+            21774.989937151797,
+            23127.532437151793,
+            24514.728724651777,
+            25937.461948839264,
+            27396.637673721452,
+            28893.184445217485,
+            30428.054372562558,
+            32002.22372438413,
+            403300.1090274108
+          ],
+          "npv": 111835.16523224227,
+          "irr": 0.14743032882998858,
+          "paybackYears": 10.815770673386295,
+          "roi": 0.09245758163684431,
+          "judgement": {
+            "score": 8,
+            "verdict": "Invest",
+            "reasons": [
+              "Return clears 8% with at least $1,000 a month of cash flow after the conversion budget.",
+              "Six-month carry is $19,442, inside the $20,000 hold.",
+              "Evidence on this row: cash flow $1,705/mo, ROI 9.2%, cash in $221,250."
+            ]
+          }
+        },
+        {
+          "purchasePrice": 550000,
+          "monthlyRent": 5375,
+          "atListPrice": false,
+          "stack": {
+            "downPayment": 137500,
+            "loanAmount": 412500,
+            "remodeling": 60000,
+            "extra": 10000,
+            "holding": 20000,
+            "totalCashInvested": 227500,
+            "notes": []
+          },
+          "ops": {
+            "monthlyPrincipalInterest": 2675.467148343889,
+            "monthlyTax": 527.0833333333334,
+            "monthlyInsurance": 183.33333333333334,
+            "monthlyHoa": 0,
+            "monthlyOperating": 430,
+            "totalMonthlyOutflow": 3815.883815010556,
+            "monthlyCashFlow": 1559.1161849894438,
+            "annualCashFlow": 18709.394219873328,
+            "sixMonthCarry": 20315.302890063336,
+            "holdingGap": 315.30289006333624
+          },
+          "cashFlows": [
+            -227500,
+            18709.394219873328,
+            20022.39421987332,
+            21369.07171987331,
+            22750.2857073733,
+            24166.916985560794,
+            25619.868725522974,
+            27110.067032400613,
+            28638.461525834915,
+            30206.0259350675,
+            419101.1463627289
+          ],
+          "npv": 101757.46622143376,
+          "irr": 0.13975642861811716,
+          "paybackYears": 12.159666813709391,
+          "roi": 0.08223909547197067,
+          "judgement": {
+            "score": 8,
+            "verdict": "Invest",
+            "reasons": [
+              "Return clears 8% with at least $1,000 a month of cash flow after the conversion budget.",
+              "Six-month carry is $20,315, just over the $20,000 hold.",
+              "Evidence on this row: cash flow $1,559/mo, ROI 8.2%, cash in $227,500."
+            ]
+          }
+        },
+        {
+          "purchasePrice": 475000,
+          "monthlyRent": 4750,
+          "atListPrice": false,
+          "stack": {
+            "downPayment": 118750,
+            "loanAmount": 356250,
+            "remodeling": 60000,
+            "extra": 10000,
+            "holding": 20000,
+            "totalCashInvested": 208750,
+            "notes": []
+          },
+          "ops": {
+            "monthlyPrincipalInterest": 2310.630719024268,
+            "monthlyTax": 455.2083333333333,
+            "monthlyInsurance": 183.33333333333334,
+            "monthlyHoa": 0,
+            "monthlyOperating": 380,
+            "totalMonthlyOutflow": 3329.172385690935,
+            "monthlyCashFlow": 1420.8276143090652,
+            "annualCashFlow": 17049.931371708783,
+            "sixMonthCarry": 17695.03431414561,
+            "holdingGap": -2304.9656858543894
+          },
+          "cashFlows": [
+            -208750,
+            17049.931371708783,
+            18207.681371708786,
+            19395.141371708785,
+            20613.069446708785,
+            21862.242930083783,
+            23143.45890117315,
+            24457.53468518236,
+            25805.308365707242,
+            27187.639310199003,
+            363080.879864135
+          ],
+          "npv": 82099.27650376233,
+          "irr": 0.13425600855986627,
+          "paybackYears": 12.243451040887011,
+          "roi": 0.08167631794830554,
+          "judgement": {
+            "score": 8,
+            "verdict": "Invest",
+            "reasons": [
+              "Return clears 8% with at least $1,000 a month of cash flow after the conversion budget.",
+              "Six-month carry is $17,695, inside the $20,000 hold.",
+              "Evidence on this row: cash flow $1,421/mo, ROI 8.2%, cash in $208,750."
+            ]
+          }
+        },
+        {
+          "purchasePrice": 500000,
+          "monthlyRent": 4750,
+          "atListPrice": false,
+          "stack": {
+            "downPayment": 125000,
+            "loanAmount": 375000,
+            "remodeling": 60000,
+            "extra": 10000,
+            "holding": 20000,
+            "totalCashInvested": 215000,
+            "notes": []
+          },
+          "ops": {
+            "monthlyPrincipalInterest": 2432.2428621308086,
+            "monthlyTax": 479.1666666666667,
+            "monthlyInsurance": 183.33333333333334,
+            "monthlyHoa": 0,
+            "monthlyOperating": 380,
+            "totalMonthlyOutflow": 3474.7428621308086,
+            "monthlyCashFlow": 1275.2571378691914,
+            "annualCashFlow": 15303.085654430297,
+            "sixMonthCarry": 18568.457172784852,
+            "holdingGap": -1431.5428272151476
+          },
+          "cashFlows": [
+            -215000,
+            15303.085654430297,
+            16455.085654430295,
+            17636.680654430296,
+            18848.626429430296,
+            20091.697966805288,
+            21366.689952974662,
+            22674.417272365466,
+            24015.71551897958,
+            25391.441520882363,
+            378881.9171994535
+          ],
+          "npv": 72021.57749295395,
+          "irr": 0.12654017338489024,
+          "paybackYears": 14.049454133307863,
+          "roi": 0.07117714257874556,
+          "judgement": {
+            "score": 6,
+            "verdict": "Watch",
+            "reasons": [
+              "The lease covers the bills, and the payback is slow for the cash tied up in the down payment, remodel, and hold.",
+              "Six-month carry is $18,568, inside the $20,000 hold.",
+              "Evidence on this row: cash flow $1,275/mo, ROI 7.1%, cash in $215,000."
+            ]
+          }
+        },
+        {
+          "purchasePrice": 525000,
+          "monthlyRent": 4750,
+          "atListPrice": false,
+          "stack": {
+            "downPayment": 131250,
+            "loanAmount": 393750,
+            "remodeling": 60000,
+            "extra": 10000,
+            "holding": 20000,
+            "totalCashInvested": 221250,
+            "notes": []
+          },
+          "ops": {
+            "monthlyPrincipalInterest": 2553.8550052373494,
+            "monthlyTax": 503.125,
+            "monthlyInsurance": 183.33333333333334,
+            "monthlyHoa": 0,
+            "monthlyOperating": 380,
+            "totalMonthlyOutflow": 3620.313338570683,
+            "monthlyCashFlow": 1129.6866614293172,
+            "annualCashFlow": 13556.239937151806,
+            "sixMonthCarry": 19441.880031424098,
+            "holdingGap": -558.119968575902
+          },
+          "cashFlows": [
+            -221250,
+            13556.239937151806,
+            14702.489937151808,
+            15878.219937151807,
+            17084.183412151808,
+            18321.1530035268,
+            19589.921004776174,
+            20891.299859548577,
+            22226.122672251928,
+            23595.243731565723,
+            394682.9545347719
+          ],
+          "npv": 61943.878482145476,
+          "irr": 0.11939071073653762,
+          "paybackYears": 16.320897315608082,
+          "roi": 0.06127114095887822,
+          "judgement": {
+            "score": 6,
+            "verdict": "Watch",
+            "reasons": [
+              "The lease covers the bills, and the payback is slow for the cash tied up in the down payment, remodel, and hold.",
+              "Six-month carry is $19,442, inside the $20,000 hold.",
+              "Evidence on this row: cash flow $1,130/mo, ROI 6.1%, cash in $221,250."
+            ]
+          }
+        },
+        {
+          "purchasePrice": 450000,
+          "monthlyRent": 4125,
+          "atListPrice": false,
+          "stack": {
+            "downPayment": 112500,
+            "loanAmount": 337500,
+            "remodeling": 60000,
+            "extra": 10000,
+            "holding": 20000,
+            "totalCashInvested": 202500,
+            "notes": []
+          },
+          "ops": {
+            "monthlyPrincipalInterest": 2189.0185759177275,
+            "monthlyTax": 431.25,
+            "monthlyInsurance": 183.33333333333334,
+            "monthlyHoa": 0,
+            "monthlyOperating": 330,
+            "totalMonthlyOutflow": 3133.601909251061,
+            "monthlyCashFlow": 991.398090748939,
+            "annualCashFlow": 11896.777088987268,
+            "sixMonthCarry": 16821.611455506365,
+            "holdingGap": -3178.388544493635
+          },
+          "cashFlows": [
+            -202500,
+            11896.777088987268,
+            12887.77708898727,
+            13904.289588987263,
+            14946.967151487272,
+            16016.478948049758,
+            17113.511180426318,
+            18238.76751233029,
+            19392.969512124226,
+            20576.857106697207,
+            338662.6880361778
+          ],
+          "npv": 42285.68876447383,
+          "irr": 0.11130028930022157,
+          "paybackYears": 17.02141668161979,
+          "roi": 0.058749516488826016,
+          "judgement": {
+            "score": 5,
+            "verdict": "Watch",
+            "reasons": [
+              "Cash flow is positive and still under $1,000 a month, so one overrun consumes the cushion.",
+              "Six-month carry is $16,822, inside the $20,000 hold.",
+              "Evidence on this row: cash flow $991/mo, ROI 5.9%, cash in $202,500."
+            ]
+          }
+        },
+        {
+          "purchasePrice": 550000,
+          "monthlyRent": 4750,
+          "atListPrice": false,
+          "stack": {
+            "downPayment": 137500,
+            "loanAmount": 412500,
+            "remodeling": 60000,
+            "extra": 10000,
+            "holding": 20000,
+            "totalCashInvested": 227500,
+            "notes": []
+          },
+          "ops": {
+            "monthlyPrincipalInterest": 2675.467148343889,
+            "monthlyTax": 527.0833333333334,
+            "monthlyInsurance": 183.33333333333334,
+            "monthlyHoa": 0,
+            "monthlyOperating": 380,
+            "totalMonthlyOutflow": 3765.883815010556,
+            "monthlyCashFlow": 984.1161849894438,
+            "annualCashFlow": 11809.394219873326,
+            "sixMonthCarry": 20315.302890063336,
+            "holdingGap": 315.30289006333624
+          },
+          "cashFlows": [
+            -227500,
+            11809.394219873326,
+            12949.89421987333,
+            14119.75921987333,
+            15319.74039487333,
+            16550.608040248324,
+            17813.152056577695,
+            19108.182446731702,
+            20436.52982552428,
+            21799.04594224909,
+            410483.99187009
+          ],
+          "npv": 51866.17947133703,
+          "irr": 0.11275156429572715,
+          "paybackYears": 19.264324296766535,
+          "roi": 0.05190942514230033,
+          "judgement": {
+            "score": 5,
+            "verdict": "Watch",
+            "reasons": [
+              "Cash flow is positive and still under $1,000 a month, so one overrun consumes the cushion.",
+              "Six-month carry is $20,315, just over the $20,000 hold.",
+              "Evidence on this row: cash flow $984/mo, ROI 5.2%, cash in $227,500."
+            ]
+          }
+        },
+        {
+          "purchasePrice": 475000,
+          "monthlyRent": 4125,
+          "atListPrice": false,
+          "stack": {
+            "downPayment": 118750,
+            "loanAmount": 356250,
+            "remodeling": 60000,
+            "extra": 10000,
+            "holding": 20000,
+            "totalCashInvested": 208750,
+            "notes": []
+          },
+          "ops": {
+            "monthlyPrincipalInterest": 2310.630719024268,
+            "monthlyTax": 455.2083333333333,
+            "monthlyInsurance": 183.33333333333334,
+            "monthlyHoa": 0,
+            "monthlyOperating": 330,
+            "totalMonthlyOutflow": 3279.172385690935,
+            "monthlyCashFlow": 845.8276143090652,
+            "annualCashFlow": 10149.931371708783,
+            "sixMonthCarry": 17695.03431414561,
+            "holdingGap": -2304.9656858543894
+          },
+          "cashFlows": [
+            -208750,
+            10149.931371708783,
+            11135.181371708786,
+            12145.828871708785,
+            13182.524134208788,
+            14245.933984771278,
+            15336.742232227834,
+            16455.650099513412,
+            17603.376665396572,
+            18780.65931738057,
+            354463.7253714961
+          ],
+          "npv": 32207.989753665403,
+          "irr": 0.10422559660615428,
+          "paybackYears": 20.566641522508746,
+          "roi": 0.04862242573273668,
+          "judgement": {
+            "score": 5,
+            "verdict": "Watch",
+            "reasons": [
+              "Cash flow is positive and still under $1,000 a month, so one overrun consumes the cushion.",
+              "Six-month carry is $17,695, inside the $20,000 hold.",
+              "Evidence on this row: cash flow $846/mo, ROI 4.9%, cash in $208,750."
+            ]
+          }
+        },
+        {
+          "purchasePrice": 500000,
+          "monthlyRent": 4125,
+          "atListPrice": false,
+          "stack": {
+            "downPayment": 125000,
+            "loanAmount": 375000,
+            "remodeling": 60000,
+            "extra": 10000,
+            "holding": 20000,
+            "totalCashInvested": 215000,
+            "notes": []
+          },
+          "ops": {
+            "monthlyPrincipalInterest": 2432.2428621308086,
+            "monthlyTax": 479.1666666666667,
+            "monthlyInsurance": 183.33333333333334,
+            "monthlyHoa": 0,
+            "monthlyOperating": 330,
+            "totalMonthlyOutflow": 3424.7428621308086,
+            "monthlyCashFlow": 700.2571378691914,
+            "annualCashFlow": 8403.085654430297,
+            "sixMonthCarry": 18568.457172784852,
+            "holdingGap": -1431.5428272151476
+          },
+          "cashFlows": [
+            -215000,
+            8403.085654430297,
+            9382.585654430297,
+            10387.368154430296,
+            11418.0811169303,
+            12475.389021492787,
+            13559.973284029345,
+            14672.532686696517,
+            15813.78381866891,
+            16984.46152806393,
+            370264.76270681457
+          ],
+          "npv": 22130.290742857003,
+          "irr": 0.09769579634324624,
+          "paybackYears": 25.585839397774926,
+          "roi": 0.03908411932293161,
+          "judgement": {
+            "score": 5,
+            "verdict": "Watch",
+            "reasons": [
+              "Cash flow is positive and still under $1,000 a month, so one overrun consumes the cushion.",
+              "Six-month carry is $18,568, inside the $20,000 hold.",
+              "Evidence on this row: cash flow $700/mo, ROI 3.9%, cash in $215,000."
+            ]
+          }
+        },
+        {
+          "purchasePrice": 525000,
+          "monthlyRent": 4125,
+          "atListPrice": false,
+          "stack": {
+            "downPayment": 131250,
+            "loanAmount": 393750,
+            "remodeling": 60000,
+            "extra": 10000,
+            "holding": 20000,
+            "totalCashInvested": 221250,
+            "notes": []
+          },
+          "ops": {
+            "monthlyPrincipalInterest": 2553.8550052373494,
+            "monthlyTax": 503.125,
+            "monthlyInsurance": 183.33333333333334,
+            "monthlyHoa": 0,
+            "monthlyOperating": 330,
+            "totalMonthlyOutflow": 3570.313338570683,
+            "monthlyCashFlow": 554.6866614293172,
+            "annualCashFlow": 6656.239937151806,
+            "sixMonthCarry": 19441.880031424098,
+            "holdingGap": -558.119968575902
+          },
+          "cashFlows": [
+            -221250,
+            6656.239937151806,
+            7629.989937151808,
+            8628.907437151807,
+            9653.638099651811,
+            10704.844058214296,
+            11783.204335830857,
+            12889.41527387963,
+            14024.190971941256,
+            15188.26373874729,
+            386065.800042133
+          ],
+          "npv": 12052.591732048575,
+          "irr": 0.09165402367319504,
+          "paybackYears": 33.239486870822226,
+          "roi": 0.030084700280912115,
+          "judgement": {
+            "score": 5,
+            "verdict": "Watch",
+            "reasons": [
+              "Cash flow is positive and still under $1,000 a month, so one overrun consumes the cushion.",
+              "Six-month carry is $19,442, inside the $20,000 hold.",
+              "Evidence on this row: cash flow $555/mo, ROI 3.0%, cash in $221,250."
+            ]
+          }
+        },
+        {
+          "purchasePrice": 450000,
+          "monthlyRent": 3500,
+          "atListPrice": false,
+          "stack": {
+            "downPayment": 112500,
+            "loanAmount": 337500,
+            "remodeling": 60000,
+            "extra": 10000,
+            "holding": 20000,
+            "totalCashInvested": 202500,
+            "notes": []
+          },
+          "ops": {
+            "monthlyPrincipalInterest": 2189.0185759177275,
+            "monthlyTax": 431.25,
+            "monthlyInsurance": 183.33333333333334,
+            "monthlyHoa": 0,
+            "monthlyOperating": 280,
+            "totalMonthlyOutflow": 3083.601909251061,
+            "monthlyCashFlow": 416.398090748939,
+            "annualCashFlow": 4996.777088987268,
+            "sixMonthCarry": 16821.611455506365,
+            "holdingGap": -3178.388544493635
+          },
+          "cashFlows": [
+            -202500,
+            4996.777088987268,
+            5815.2770889872645,
+            6654.9770889872525,
+            7516.421838987253,
+            8400.170002737244,
+            9306.794511480995,
+            10236.882926661337,
+            11191.037811813547,
+            12169.877113878763,
+            330045.5335435389
+          ],
+          "npv": -7605.597985623142,
+          "irr": 0.08029249932730441,
+          "paybackYears": 40.526122417248374,
+          "roi": 0.02467544241475194,
+          "judgement": {
+            "score": 2,
+            "verdict": "Pass",
+            "reasons": [
+              "Monthly cash flow is under $500. That is too thin for a vacant month, a licensing hold, or a permit delay.",
+              "Six-month carry is $16,822, inside the $20,000 hold.",
+              "Evidence on this row: cash flow $416/mo, ROI 2.5%, cash in $202,500."
+            ]
+          }
+        },
+        {
+          "purchasePrice": 550000,
+          "monthlyRent": 4125,
+          "atListPrice": false,
+          "stack": {
+            "downPayment": 137500,
+            "loanAmount": 412500,
+            "remodeling": 60000,
+            "extra": 10000,
+            "holding": 20000,
+            "totalCashInvested": 227500,
+            "notes": []
+          },
+          "ops": {
+            "monthlyPrincipalInterest": 2675.467148343889,
+            "monthlyTax": 527.0833333333334,
+            "monthlyInsurance": 183.33333333333334,
+            "monthlyHoa": 0,
+            "monthlyOperating": 330,
+            "totalMonthlyOutflow": 3715.883815010556,
+            "monthlyCashFlow": 409.1161849894438,
+            "annualCashFlow": 4909.394219873326,
+            "sixMonthCarry": 20315.302890063336,
+            "holdingGap": 315.30289006333624
+          },
+          "cashFlows": [
+            -227500,
+            4909.394219873326,
+            5877.394219873329,
+            6870.446719873329,
+            7889.195082373333,
+            8934.29909493582,
+            10006.435387632378,
+            11106.297861062752,
+            12234.598125213613,
+            13392.06594943066,
+            401866.8373774511
+          ],
+          "npv": 1974.8927212401177,
+          "irr": 0.08605056209186741,
+          "paybackYears": 46.33972946785888,
+          "roi": 0.021579754812630005,
+          "judgement": {
+            "score": 2,
+            "verdict": "Pass",
+            "reasons": [
+              "Monthly cash flow is under $500. That is too thin for a vacant month, a licensing hold, or a permit delay.",
+              "Six-month carry is $20,315, just over the $20,000 hold.",
+              "Evidence on this row: cash flow $409/mo, ROI 2.2%, cash in $227,500."
+            ]
+          }
+        },
+        {
+          "purchasePrice": 475000,
+          "monthlyRent": 3500,
+          "atListPrice": false,
+          "stack": {
+            "downPayment": 118750,
+            "loanAmount": 356250,
+            "remodeling": 60000,
+            "extra": 10000,
+            "holding": 20000,
+            "totalCashInvested": 208750,
+            "notes": []
+          },
+          "ops": {
+            "monthlyPrincipalInterest": 2310.630719024268,
+            "monthlyTax": 455.2083333333333,
+            "monthlyInsurance": 183.33333333333334,
+            "monthlyHoa": 0,
+            "monthlyOperating": 280,
+            "totalMonthlyOutflow": 3229.172385690935,
+            "monthlyCashFlow": 270.8276143090652,
+            "annualCashFlow": 3249.9313717087825,
+            "sixMonthCarry": 17695.03431414561,
+            "holdingGap": -2304.9656858543894
+          },
+          "cashFlows": [
+            -208750,
+            3249.9313717087825,
+            4062.6813717087807,
+            4896.516371708774,
+            5751.97882170877,
+            6629.625039458764,
+            7530.025563282512,
+            8453.765513844455,
+            9401.444965085893,
+            10373.679324562123,
+            345846.5708788572
+          ],
+          "npv": -17683.296996431513,
+          "irr": 0.07449935212969418,
+          "paybackYears": 64.23212558185229,
+          "roi": 0.01556853351716782,
+          "judgement": {
+            "score": 2,
+            "verdict": "Pass",
+            "reasons": [
+              "Monthly cash flow is under $500. That is too thin for a vacant month, a licensing hold, or a permit delay.",
+              "Six-month carry is $17,695, inside the $20,000 hold.",
+              "Evidence on this row: cash flow $271/mo, ROI 1.6%, cash in $208,750."
+            ]
+          }
+        },
+        {
+          "purchasePrice": 500000,
+          "monthlyRent": 3500,
+          "atListPrice": false,
+          "stack": {
+            "downPayment": 125000,
+            "loanAmount": 375000,
+            "remodeling": 60000,
+            "extra": 10000,
+            "holding": 20000,
+            "totalCashInvested": 215000,
+            "notes": []
+          },
+          "ops": {
+            "monthlyPrincipalInterest": 2432.2428621308086,
+            "monthlyTax": 479.1666666666667,
+            "monthlyInsurance": 183.33333333333334,
+            "monthlyHoa": 0,
+            "monthlyOperating": 280,
+            "totalMonthlyOutflow": 3374.7428621308086,
+            "monthlyCashFlow": 125.25713786919141,
+            "annualCashFlow": 1503.085654430297,
+            "sixMonthCarry": 18568.457172784852,
+            "holdingGap": -1431.5428272151476
+          },
+          "cashFlows": [
+            -215000,
+            1503.085654430297,
+            2310.0856544302915,
+            3138.0556544302854,
+            3987.535804430281,
+            4859.080076180273,
+            5753.256615084023,
+            6670.648101027562,
+            7611.852118358229,
+            8577.481535245483,
+            361647.6082141757
+          ],
+          "npv": -27760.99600723997,
+          "irr": 0.06916130634920604,
+          "paybackYears": 143.03908720457437,
+          "roi": 0.00699109606711766,
+          "judgement": {
+            "score": 2,
+            "verdict": "Pass",
+            "reasons": [
+              "Monthly cash flow is under $500. That is too thin for a vacant month, a licensing hold, or a permit delay.",
+              "Six-month carry is $18,568, inside the $20,000 hold.",
+              "Evidence on this row: cash flow $125/mo, ROI 0.7%, cash in $215,000."
+            ]
+          }
+        },
+        {
+          "purchasePrice": 525000,
+          "monthlyRent": 3500,
+          "atListPrice": false,
+          "stack": {
+            "downPayment": 131250,
+            "loanAmount": 393750,
+            "remodeling": 60000,
+            "extra": 10000,
+            "holding": 20000,
+            "totalCashInvested": 221250,
+            "notes": []
+          },
+          "ops": {
+            "monthlyPrincipalInterest": 2553.8550052373494,
+            "monthlyTax": 503.125,
+            "monthlyInsurance": 183.33333333333334,
+            "monthlyHoa": 0,
+            "monthlyOperating": 280,
+            "totalMonthlyOutflow": 3520.313338570683,
+            "monthlyCashFlow": -20.313338570682845,
+            "annualCashFlow": -243.76006284819414,
+            "sixMonthCarry": 19441.880031424098,
+            "holdingGap": -558.119968575902
+          },
+          "cashFlows": [
+            -221250,
+            -243.76006284819414,
+            557.4899371518022,
+            1379.5949371517963,
+            2223.0927871517924,
+            3088.5351129017818,
+            3976.487666885534,
+            4887.530688210674,
+            5822.259271630575,
+            6781.283745928842,
+            377448.64554949413
+          ],
+          "npv": -37838.69501804831,
+          "irr": 0.06422934440299988,
+          "paybackYears": null,
+          "roi": -0.0011017403970539849,
+          "judgement": {
+            "score": 2,
+            "verdict": "Pass",
+            "reasons": [
+              "Monthly cash flow is under $500. That is too thin for a vacant month, a licensing hold, or a permit delay.",
+              "Any positive internal rate of return here is coming from the modeled year-10 sale, not from the lease.",
+              "Six-month carry is $19,442, inside the $20,000 hold.",
+              "Evidence on this row: cash flow -$20/mo, ROI -0.1%, cash in $221,250."
+            ]
+          }
+        },
+        {
+          "purchasePrice": 550000,
+          "monthlyRent": 3500,
+          "atListPrice": false,
+          "stack": {
+            "downPayment": 137500,
+            "loanAmount": 412500,
+            "remodeling": 60000,
+            "extra": 10000,
+            "holding": 20000,
+            "totalCashInvested": 227500,
+            "notes": []
+          },
+          "ops": {
+            "monthlyPrincipalInterest": 2675.467148343889,
+            "monthlyTax": 527.0833333333334,
+            "monthlyInsurance": 183.33333333333334,
+            "monthlyHoa": 0,
+            "monthlyOperating": 280,
+            "totalMonthlyOutflow": 3665.883815010556,
+            "monthlyCashFlow": -165.8838150105562,
+            "annualCashFlow": -1990.6057801266743,
+            "sixMonthCarry": 20315.302890063336,
+            "holdingGap": 315.30289006333624
+          },
+          "cashFlows": [
+            -227500,
+            -1990.6057801266743,
+            -1195.105780126676,
+            -378.8657801266818,
+            458.64976987331465,
+            1317.990149623307,
+            2199.718718687056,
+            3104.4132753937974,
+            4032.6664249029327,
+            4985.085956612213,
+            393249.68288481224
+          ],
+          "npv": -47916.394028856856,
+          "irr": 0.05966088904418404,
+          "paybackYears": null,
+          "roi": -0.008749915517040326,
+          "judgement": {
+            "score": 2,
+            "verdict": "Pass",
+            "reasons": [
+              "Monthly cash flow is under $500. That is too thin for a vacant month, a licensing hold, or a permit delay.",
+              "Any positive internal rate of return here is coming from the modeled year-10 sale, not from the lease.",
+              "Six-month carry is $20,315, just over the $20,000 hold.",
+              "Evidence on this row: cash flow -$166/mo, ROI -0.9%, cash in $227,500."
+            ]
+          }
+        }
+      ],
+      "topFive": [
+        {
+          "purchasePrice": 450000,
+          "monthlyRent": 6000,
+          "atListPrice": false,
+          "stack": {
+            "downPayment": 112500,
+            "loanAmount": 337500,
+            "remodeling": 60000,
+            "extra": 10000,
+            "holding": 20000,
+            "totalCashInvested": 202500,
+            "notes": []
+          },
+          "ops": {
+            "monthlyPrincipalInterest": 2189.0185759177275,
+            "monthlyTax": 431.25,
+            "monthlyInsurance": 183.33333333333334,
+            "monthlyHoa": 0,
+            "monthlyOperating": 480,
+            "totalMonthlyOutflow": 3283.601909251061,
+            "monthlyCashFlow": 2716.398090748939,
+            "annualCashFlow": 32596.77708898727,
+            "sixMonthCarry": 16821.611455506365,
+            "holdingGap": -3178.388544493635
+          },
+          "cashFlows": [
+            -202500,
+            32596.77708898727,
+            34105.27708898726,
+            35652.227088987245,
+            37238.60308898724,
+            38865.405783987226,
+            40533.66118726222,
+            42244.421269337094,
+            43998.7646130562,
+            45797.79708515247,
+            364514.15151409444
+          ],
+          "npv": 191959.54901476437,
+          "irr": 0.20602819071553338,
+          "paybackYears": 6.212270601083874,
+          "roi": 0.16097173871104825,
+          "judgement": {
+            "score": 10,
+            "verdict": "Invest",
+            "reasons": [
+              "Cash-on-cash return is at least 11% and monthly cash flow clears $1,800 on this lease test.",
+              "Six-month carry is $16,822, inside the $20,000 hold.",
+              "Evidence on this row: cash flow $2,716/mo, ROI 16.1%, cash in $202,500."
+            ]
+          }
+        },
+        {
+          "purchasePrice": 475000,
+          "monthlyRent": 6000,
+          "atListPrice": false,
+          "stack": {
+            "downPayment": 118750,
+            "loanAmount": 356250,
+            "remodeling": 60000,
+            "extra": 10000,
+            "holding": 20000,
+            "totalCashInvested": 208750,
+            "notes": []
+          },
+          "ops": {
+            "monthlyPrincipalInterest": 2310.630719024268,
+            "monthlyTax": 455.2083333333333,
+            "monthlyInsurance": 183.33333333333334,
+            "monthlyHoa": 0,
+            "monthlyOperating": 480,
+            "totalMonthlyOutflow": 3429.172385690935,
+            "monthlyCashFlow": 2570.827614309065,
+            "annualCashFlow": 30849.931371708783,
+            "sixMonthCarry": 17695.03431414561,
+            "holdingGap": -2304.9656858543894
+          },
+          "cashFlows": [
+            -208750,
+            30849.931371708783,
+            32352.681371708775,
+            33893.76637170877,
+            35474.16007170876,
+            37094.86082070875,
+            38756.892239063745,
+            40461.30385652021,
+            42209.171766328545,
+            44001.59929583584,
+            380315.1888494128
+          ],
+          "npv": 181881.85000395597,
+          "irr": 0.19517649253792604,
+          "paybackYears": 6.766627694719481,
+          "roi": 0.14778410237944328,
+          "judgement": {
+            "score": 10,
+            "verdict": "Invest",
+            "reasons": [
+              "Cash-on-cash return is at least 11% and monthly cash flow clears $1,800 on this lease test.",
+              "Six-month carry is $17,695, inside the $20,000 hold.",
+              "Evidence on this row: cash flow $2,571/mo, ROI 14.8%, cash in $208,750."
+            ]
+          }
+        },
+        {
+          "purchasePrice": 500000,
+          "monthlyRent": 6000,
+          "atListPrice": false,
+          "stack": {
+            "downPayment": 125000,
+            "loanAmount": 375000,
+            "remodeling": 60000,
+            "extra": 10000,
+            "holding": 20000,
+            "totalCashInvested": 215000,
+            "notes": []
+          },
+          "ops": {
+            "monthlyPrincipalInterest": 2432.2428621308086,
+            "monthlyTax": 479.1666666666667,
+            "monthlyInsurance": 183.33333333333334,
+            "monthlyHoa": 0,
+            "monthlyOperating": 480,
+            "totalMonthlyOutflow": 3574.7428621308086,
+            "monthlyCashFlow": 2425.2571378691914,
+            "annualCashFlow": 29103.085654430295,
+            "sixMonthCarry": 18568.457172784852,
+            "holdingGap": -1431.5428272151476
+          },
+          "cashFlows": [
+            -215000,
+            29103.085654430295,
+            30600.085654430288,
+            32135.30565443028,
+            33709.717054430264,
+            35324.31585743026,
+            36980.12329086525,
+            38678.186443703315,
+            40419.578919600885,
+            42205.4015065192,
+            396116.22618473123
+          ],
+          "npv": 171804.15099314754,
+          "irr": 0.1851122872437769,
+          "paybackYears": 7.387532805040246,
+          "roi": 0.13536318909037345,
+          "judgement": {
+            "score": 10,
+            "verdict": "Invest",
+            "reasons": [
+              "Cash-on-cash return is at least 11% and monthly cash flow clears $1,800 on this lease test.",
+              "Six-month carry is $18,568, inside the $20,000 hold.",
+              "Evidence on this row: cash flow $2,425/mo, ROI 13.5%, cash in $215,000."
+            ]
+          }
+        },
+        {
+          "purchasePrice": 450000,
+          "monthlyRent": 5375,
+          "atListPrice": false,
+          "stack": {
+            "downPayment": 112500,
+            "loanAmount": 337500,
+            "remodeling": 60000,
+            "extra": 10000,
+            "holding": 20000,
+            "totalCashInvested": 202500,
+            "notes": []
+          },
+          "ops": {
+            "monthlyPrincipalInterest": 2189.0185759177275,
+            "monthlyTax": 431.25,
+            "monthlyInsurance": 183.33333333333334,
+            "monthlyHoa": 0,
+            "monthlyOperating": 430,
+            "totalMonthlyOutflow": 3233.601909251061,
+            "monthlyCashFlow": 2141.398090748939,
+            "annualCashFlow": 25696.77708898727,
+            "sixMonthCarry": 16821.611455506365,
+            "holdingGap": -3178.388544493635
+          },
+          "cashFlows": [
+            -202500,
+            25696.77708898727,
+            27032.77708898726,
+            28402.914588987245,
+            29808.057776487236,
+            31249.096838674726,
+            32726.944518316915,
+            34242.53668366815,
+            35796.83291274553,
+            37390.81709233404,
+            355896.99702145555
+          ],
+          "npv": 142068.2622646675,
+          "irr": 0.17418356333871687,
+          "paybackYears": 7.880365669933929,
+          "roi": 0.12689766463697416,
+          "judgement": {
+            "score": 10,
+            "verdict": "Invest",
+            "reasons": [
+              "Cash-on-cash return is at least 11% and monthly cash flow clears $1,800 on this lease test.",
+              "Six-month carry is $16,822, inside the $20,000 hold.",
+              "Evidence on this row: cash flow $2,141/mo, ROI 12.7%, cash in $202,500."
+            ]
+          }
+        },
+        {
+          "purchasePrice": 525000,
+          "monthlyRent": 6000,
+          "atListPrice": false,
+          "stack": {
+            "downPayment": 131250,
+            "loanAmount": 393750,
+            "remodeling": 60000,
+            "extra": 10000,
+            "holding": 20000,
+            "totalCashInvested": 221250,
+            "notes": []
+          },
+          "ops": {
+            "monthlyPrincipalInterest": 2553.8550052373494,
+            "monthlyTax": 503.125,
+            "monthlyInsurance": 183.33333333333334,
+            "monthlyHoa": 0,
+            "monthlyOperating": 480,
+            "totalMonthlyOutflow": 3720.313338570683,
+            "monthlyCashFlow": 2279.686661429317,
+            "annualCashFlow": 27356.239937151804,
+            "sixMonthCarry": 19441.880031424098,
+            "holdingGap": -558.119968575902
+          },
+          "cashFlows": [
+            -221250,
+            27356.239937151804,
+            28847.489937151797,
+            30376.844937151793,
+            31945.27403715178,
+            33553.77089415176,
+            35203.35434266676,
+            36895.06903088643,
+            38629.98607287323,
+            40409.20371720256,
+            411917.2635200497
+          ],
+          "npv": 161726.45198233915,
+          "irr": 0.1757605035993305,
+          "paybackYears": 8.08773429785305,
+          "roi": 0.12364402231481042,
+          "judgement": {
+            "score": 10,
+            "verdict": "Invest",
+            "reasons": [
+              "Cash-on-cash return is at least 11% and monthly cash flow clears $1,800 on this lease test.",
+              "Six-month carry is $19,442, inside the $20,000 hold.",
+              "Evidence on this row: cash flow $2,280/mo, ROI 12.4%, cash in $221,250."
+            ]
+          }
+        }
+      ],
+      "atListPrice": [
+        {
+          "purchasePrice": 495000,
+          "monthlyRent": 6000,
+          "atListPrice": true,
+          "stack": {
+            "downPayment": 123750,
+            "loanAmount": 371250,
+            "remodeling": 60000,
+            "extra": 10000,
+            "holding": 20000,
+            "totalCashInvested": 213750,
+            "notes": []
+          },
+          "ops": {
+            "monthlyPrincipalInterest": 2407.9204335095005,
+            "monthlyTax": 474.375,
+            "monthlyInsurance": 183.33333333333334,
+            "monthlyHoa": 0,
+            "monthlyOperating": 480,
+            "totalMonthlyOutflow": 3545.628766842834,
+            "monthlyCashFlow": 2454.371233157166,
+            "annualCashFlow": 29452.454797885992,
+            "sixMonthCarry": 18393.772601057004,
+            "holdingGap": -1606.227398942996
+          },
+          "cashFlows": [
+            -213750,
+            29452.454797885992,
+            30950.60479788598,
+            32486.997797885975,
+            34062.605657885964,
+            35678.424850085954,
+            37335.47708050495,
+            39034.809926266695,
+            40777.497488946414,
+            42564.64106438253,
+            392956.01871766755
+          ],
+          "npv": 173819.69079530923,
+          "irr": 0.18706586002906053,
+          "paybackYears": 7.257459572277905,
+          "roi": 0.13778926221233212,
+          "judgement": {
+            "score": 10,
+            "verdict": "Invest",
+            "reasons": [
+              "Cash-on-cash return is at least 11% and monthly cash flow clears $1,800 on this lease test.",
+              "Six-month carry is $18,394, inside the $20,000 hold.",
+              "Evidence on this row: cash flow $2,454/mo, ROI 13.8%, cash in $213,750."
+            ]
+          }
+        },
+        {
+          "purchasePrice": 495000,
+          "monthlyRent": 5375,
+          "atListPrice": true,
+          "stack": {
+            "downPayment": 123750,
+            "loanAmount": 371250,
+            "remodeling": 60000,
+            "extra": 10000,
+            "holding": 20000,
+            "totalCashInvested": 213750,
+            "notes": []
+          },
+          "ops": {
+            "monthlyPrincipalInterest": 2407.9204335095005,
+            "monthlyTax": 474.375,
+            "monthlyInsurance": 183.33333333333334,
+            "monthlyHoa": 0,
+            "monthlyOperating": 430,
+            "totalMonthlyOutflow": 3495.628766842834,
+            "monthlyCashFlow": 1879.371233157166,
+            "annualCashFlow": 22552.454797885992,
+            "sixMonthCarry": 18393.772601057004,
+            "holdingGap": -1606.227398942996
+          },
+          "cashFlows": [
+            -213750,
+            22552.454797885992,
+            23878.10479788598,
+            25237.685297885975,
+            26632.06034538596,
+            28062.11590477345,
+            29528.760411559637,
+            31032.925340597754,
+            32575.565788635744,
+            34157.6610715641,
+            384338.86422502866
+          ],
+          "npv": 123928.40404521232,
+          "irr": 0.15740918547700083,
+          "paybackYears": 9.477903931772268,
+          "roi": 0.10550856045794615,
+          "judgement": {
+            "score": 8,
+            "verdict": "Invest",
+            "reasons": [
+              "Return clears 8% with at least $1,000 a month of cash flow after the conversion budget.",
+              "Six-month carry is $18,394, inside the $20,000 hold.",
+              "Evidence on this row: cash flow $1,879/mo, ROI 10.6%, cash in $213,750."
+            ]
+          }
+        },
+        {
+          "purchasePrice": 495000,
+          "monthlyRent": 4750,
+          "atListPrice": true,
+          "stack": {
+            "downPayment": 123750,
+            "loanAmount": 371250,
+            "remodeling": 60000,
+            "extra": 10000,
+            "holding": 20000,
+            "totalCashInvested": 213750,
+            "notes": []
+          },
+          "ops": {
+            "monthlyPrincipalInterest": 2407.9204335095005,
+            "monthlyTax": 474.375,
+            "monthlyInsurance": 183.33333333333334,
+            "monthlyHoa": 0,
+            "monthlyOperating": 380,
+            "totalMonthlyOutflow": 3445.628766842834,
+            "monthlyCashFlow": 1304.371233157166,
+            "annualCashFlow": 15652.454797885992,
+            "sixMonthCarry": 18393.772601057004,
+            "holdingGap": -1606.227398942996
+          },
+          "cashFlows": [
+            -213750,
+            15652.454797885992,
+            16805.604797885993,
+            17988.37279788599,
+            19201.51503288599,
+            20445.806959460984,
+            21722.043742614358,
+            23031.04075492885,
+            24373.63408832511,
+            25750.681078745685,
+            375721.7097323898
+          ],
+          "npv": 74037.11729511562,
+          "irr": 0.1280361087717612,
+          "paybackYears": 13.656004937249135,
+          "roi": 0.07322785870356019,
+          "judgement": {
+            "score": 6,
+            "verdict": "Watch",
+            "reasons": [
+              "The lease covers the bills, and the payback is slow for the cash tied up in the down payment, remodel, and hold.",
+              "Six-month carry is $18,394, inside the $20,000 hold.",
+              "Evidence on this row: cash flow $1,304/mo, ROI 7.3%, cash in $213,750."
+            ]
+          }
+        },
+        {
+          "purchasePrice": 495000,
+          "monthlyRent": 4125,
+          "atListPrice": true,
+          "stack": {
+            "downPayment": 123750,
+            "loanAmount": 371250,
+            "remodeling": 60000,
+            "extra": 10000,
+            "holding": 20000,
+            "totalCashInvested": 213750,
+            "notes": []
+          },
+          "ops": {
+            "monthlyPrincipalInterest": 2407.9204335095005,
+            "monthlyTax": 474.375,
+            "monthlyInsurance": 183.33333333333334,
+            "monthlyHoa": 0,
+            "monthlyOperating": 330,
+            "totalMonthlyOutflow": 3395.628766842834,
+            "monthlyCashFlow": 729.371233157166,
+            "annualCashFlow": 8752.454797885992,
+            "sixMonthCarry": 18393.772601057004,
+            "holdingGap": -1606.227398942996
+          },
+          "cashFlows": [
+            -213750,
+            8752.454797885992,
+            9733.104797885992,
+            10739.06029788599,
+            11770.969720385994,
+            12829.498014148483,
+            13915.327073669041,
+            15029.156169259899,
+            16171.702388014442,
+            17343.701085927256,
+            367104.5552397509
+          ],
+          "npv": 24145.83054501863,
+          "irr": 0.09896100441741812,
+          "paybackYears": 24.421719955826305,
+          "roi": 0.04094715694917423,
+          "judgement": {
+            "score": 5,
+            "verdict": "Watch",
+            "reasons": [
+              "Cash flow is positive and still under $1,000 a month, so one overrun consumes the cushion.",
+              "Six-month carry is $18,394, inside the $20,000 hold.",
+              "Evidence on this row: cash flow $729/mo, ROI 4.1%, cash in $213,750."
+            ]
+          }
+        },
+        {
+          "purchasePrice": 495000,
+          "monthlyRent": 3500,
+          "atListPrice": true,
+          "stack": {
+            "downPayment": 123750,
+            "loanAmount": 371250,
+            "remodeling": 60000,
+            "extra": 10000,
+            "holding": 20000,
+            "totalCashInvested": 213750,
+            "notes": []
+          },
+          "ops": {
+            "monthlyPrincipalInterest": 2407.9204335095005,
+            "monthlyTax": 474.375,
+            "monthlyInsurance": 183.33333333333334,
+            "monthlyHoa": 0,
+            "monthlyOperating": 280,
+            "totalMonthlyOutflow": 3345.628766842834,
+            "monthlyCashFlow": 154.371233157166,
+            "annualCashFlow": 1852.4547978859919,
+            "sixMonthCarry": 18393.772601057004,
+            "holdingGap": -1606.227398942996
+          },
+          "cashFlows": [
+            -213750,
+            1852.4547978859919,
+            2660.604797885986,
+            3489.747797885979,
+            4340.424407885976,
+            5213.189068835969,
+            6108.610404723719,
+            7027.271583590944,
+            7969.770687703762,
+            8936.721093108808,
+            358487.400747112
+          ],
+          "npv": -25745.456205078255,
+          "irr": 0.07019495968719068,
+          "paybackYears": 115.3874309073182,
+          "roi": 0.008666455194788265,
+          "judgement": {
+            "score": 2,
+            "verdict": "Pass",
+            "reasons": [
+              "Monthly cash flow is under $500. That is too thin for a vacant month, a licensing hold, or a permit delay.",
+              "Six-month carry is $18,394, inside the $20,000 hold.",
+              "Evidence on this row: cash flow $154/mo, ROI 0.9%, cash in $213,750."
+            ]
+          }
+        }
+      ],
+      "briefScenario": {
+        "purchasePrice": 495000,
+        "monthlyRent": 6000,
+        "atListPrice": true,
+        "stack": {
+          "downPayment": 123750,
+          "loanAmount": 371250,
+          "remodeling": 60000,
+          "extra": 10000,
+          "holding": 20000,
+          "totalCashInvested": 213750,
+          "notes": []
+        },
+        "ops": {
+          "monthlyPrincipalInterest": 2407.9204335095005,
+          "monthlyTax": 474.375,
+          "monthlyInsurance": 183.33333333333334,
+          "monthlyHoa": 0,
+          "monthlyOperating": 480,
+          "totalMonthlyOutflow": 3545.628766842834,
+          "monthlyCashFlow": 2454.371233157166,
+          "annualCashFlow": 29452.454797885992,
+          "sixMonthCarry": 18393.772601057004,
+          "holdingGap": -1606.227398942996
+        },
+        "cashFlows": [
+          -213750,
+          29452.454797885992,
+          30950.60479788598,
+          32486.997797885975,
+          34062.605657885964,
+          35678.424850085954,
+          37335.47708050495,
+          39034.809926266695,
+          40777.497488946414,
+          42564.64106438253,
+          392956.01871766755
+        ],
+        "npv": 173819.69079530923,
+        "irr": 0.18706586002906053,
+        "paybackYears": 7.257459572277905,
+        "roi": 0.13778926221233212,
+        "judgement": {
+          "score": 10,
+          "verdict": "Invest",
+          "reasons": [
+            "Cash-on-cash return is at least 11% and monthly cash flow clears $1,800 on this lease test.",
+            "Six-month carry is $18,394, inside the $20,000 hold.",
+            "Evidence on this row: cash flow $2,454/mo, ROI 13.8%, cash in $213,750."
+          ]
+        }
+      },
+      "phone": {
+        "send": true,
+        "headline": "Ready for your phone",
+        "body": "AFH MATCH\nSample Rambler SW, Tumwater WA\nList $495,000\nLease test $6,000/mo\nFlow $2,454/mo\nNPV $173,820\nIRR 18.7%\nPayback 7.3 years\nROI 13.8%\n10/10 Invest\nDesk screen only. Not a WABO pass."
+      },
+      "checklist": [
+        {
+          "id": "price",
+          "label": "Price inside the buy box",
+          "status": "pass",
+          "detail": "$495,000 is between $450,000 and $550,000."
+        },
+        {
+          "id": "area",
+          "label": "Thurston, Lewis, or the Tumwater radius",
+          "status": "pass",
+          "detail": "Thurston County, measured from 3571 Cassie Drive SW, Tumwater, WA."
+        },
+        {
+          "id": "beds",
+          "label": "3+ bedrooms and 2+ baths today",
+          "status": "pass",
+          "detail": "3 bed / 2 bath. The plan adds garage bedrooms to reach 6 residents."
+        },
+        {
+          "id": "garage",
+          "label": "2-car garage, about 400 sq ft",
+          "status": "pass",
+          "detail": "2 spaces. 440 sq ft meets the 400 sq ft planning minimum."
+        },
+        {
+          "id": "sewer",
+          "label": "Sewer can serve 6 residents",
+          "status": "pass",
+          "detail": "Marked as public sewer."
+        },
+        {
+          "id": "ceiling",
+          "label": "Garage can finish near 7.5 ft",
+          "status": "pass",
+          "detail": "You confirmed finished clearance."
+        },
+        {
+          "id": "entry",
+          "label": "Level entry or ramp inside the remodel",
+          "status": "pass",
+          "detail": "Level entry or a rambler note was confirmed."
+        },
+        {
+          "id": "hold",
+          "label": "$20,000 covers six months of carry",
+          "status": "pass",
+          "detail": "At the list price, six months of principal, interest, tax, insurance, and HOA is $18,394. The cap is $20,000."
+        },
+        {
+          "id": "sprinkler",
+          "label": "Sprinkler question left open",
+          "status": "unknown",
+          "detail": "Some care conversions are asked for a residential sprinkler system. That bid is not inside the $60,000 remodel. Ask the building official before you treat the budget as complete."
+        }
+      ]
+    }
+  }
+]

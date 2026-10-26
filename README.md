@@ -38,6 +38,15 @@ npm test
 npm run lint
 ```
 
+## Connect an NWMLS subscription
+
+The desk does not sign into the Matrix website. NWMLS gives a member firm an EverNet login for the listing web service. That login is not the same thing as pasting a Matrix link.
+
+1. The designated broker confirms the firm’s data license and EverNet user id.
+2. On the computer that runs the desk, copy `.env.example` to `.env.local`.
+3. Set `NWMLS_USER` and `NWMLS_PASSWORD`. Leave that file on the machine. Do not commit it, and do not paste the password into a chat.
+4. Restart `npm run dev` and open **NWMLS**. **Pull active listings** reads active residential rows in Thurston and Lewis from the last 21 days, keeps the $450,000–$550,000 buy box with at least 3 bedrooms and 2 baths, and adds each new score to the search results page.
+
 ## The cash stack
 
 Cash invested is not the whole purchase price. It is:

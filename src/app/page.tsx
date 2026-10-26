@@ -5,6 +5,7 @@ import { cn } from "cn";
 
 const DESK = [
   { href: "/analyze", title: "Score a listing", text: "Link, address, NWMLS number, or pasted text." },
+  { href: "/nwmls", title: "NWMLS feed", text: "Pull active Thurston and Lewis listings with the firm’s EverNet login." },
   { href: "/archive", title: "Deal book", text: "Every score kept in this browser, with a CSV export." },
   { href: "/method", title: "Six Sigma routine", text: "Define, measure, analyze, improve, control." },
   { href: "/assumptions", title: "Assumptions", text: "The rates, the caps, and what they leave out." },

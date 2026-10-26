@@ -7,6 +7,7 @@ import { cn } from "cn";
 const LINKS = [
   { href: "/record", label: "Record" },
   { href: "/analyze", label: "Score" },
+  { href: "/nwmls", label: "NWMLS" },
   { href: "/archive", label: "Deal book" },
   { href: "/method", label: "Six Sigma" },
   { href: "/assumptions", label: "Assumptions" },

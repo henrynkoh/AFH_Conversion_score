@@ -299,7 +299,12 @@ export function Analyzer() {
           </p>
         )}
 
-        <Button type="submit" size="lg" className="h-11 w-full">
+        <Button
+          type="button"
+          size="lg"
+          className="h-11 w-full"
+          onClick={() => scoreFacts(facts)}
+        >
           Build the score package
         </Button>
         {logged && <p className="text-sm text-muted-foreground">{logged}</p>}

@@ -13,7 +13,7 @@ export const metadata: Metadata = { title: "Assumptions" };
 
 export default function AssumptionsPage() {
   return (
-    <main className="mx-auto max-w-4xl px-4 py-10">
+    <article className="mx-auto max-w-4xl px-4 py-10">
       <p className="text-xs tracking-[0.16em] text-copper uppercase">October 2026 desk screen</p>
       <h1 className="mt-2 font-display text-4xl text-pine">What the numbers assume</h1>
       <p className="mt-4 max-w-2xl text-lg leading-8">
@@ -40,6 +40,6 @@ export default function AssumptionsPage() {
           </TableBody>
         </Table>
       </div>
-    </main>
+    </article>
   );
 }

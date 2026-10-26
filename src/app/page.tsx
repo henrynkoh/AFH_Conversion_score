@@ -39,6 +39,15 @@ export default function Home() {
                 Score a listing
               </Link>
               <Link
+                href="/record"
+                className={cn(
+                  buttonVariants({ size: "lg" }),
+                  "h-11 border-[#9b1c1c] bg-[#c62828] px-4 text-white hover:bg-[#9b1c1c]",
+                )}
+              >
+                Full project record
+              </Link>
+              <Link
                 href="/guide/quickstart"
                 className={cn(buttonVariants({ size: "lg", variant: "outline" }), "h-11 px-4")}
               >

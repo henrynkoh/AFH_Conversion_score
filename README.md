@@ -1,5 +1,11 @@
 # AFH Conversion Score
 
+<a href="docs/PROJECT_RECORD.md">
+  <img src="docs/full-project-record-button.png" alt="Full project record" width="360">
+</a>
+
+The red button opens the complete written record, from the quickstart through the channel copy. In the running desk, the same red button on the first page opens that record as one scroll, and every later search is added to it.
+
 A desk routine for one search: houses in Thurston County, Lewis County, or within 30 miles of 3571 Cassie Drive SW, Tumwater, Washington, that can start as a 3-bedroom, 2-bath home and become a 6-resident Adult Family Home by a garage conversion, then be leased to an operator.
 
 Paste a Zillow link, another website link, a street address, or an NWMLS number. Add the Agent Full text when that is what you have. The desk builds a 5×5 buy box and ranks the top 5.

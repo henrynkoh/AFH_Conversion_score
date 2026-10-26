@@ -6,7 +6,7 @@ export const metadata: Metadata = { title: "Marketing" };
 
 export default function MarketingIndex() {
   return (
-    <main className="mx-auto max-w-3xl px-4 py-10">
+    <article className="mx-auto max-w-3xl px-4 py-10">
       <p className="text-xs tracking-[0.16em] text-copper uppercase">Channels</p>
       <h1 className="mt-2 font-display text-4xl text-pine">Words for each place</h1>
       <p className="mt-4 text-sm leading-6 text-muted-foreground">
@@ -27,6 +27,6 @@ export default function MarketingIndex() {
           </Link>
         ))}
       </div>
-    </main>
+    </article>
   );
 }

@@ -17,6 +17,7 @@ import { Textarea } from "@/components/ui/textarea";
 import { IphoneBrief } from "@/components/iphone-brief";
 import { ScoreTable } from "@/components/score-table";
 import { readArchive, rowFromPackage, writeArchive } from "@/lib/archive";
+import { appendSearch } from "@/lib/record";
 import { money, pct } from "@/lib/format";
 import { parseIntake } from "@/lib/parse-listing";
 import { blankFacts, phoneBrief, runPackage, scenarioKey } from "@/lib/report";
@@ -88,7 +89,10 @@ export function Analyzer() {
       existing[0]?.address === row.address &&
       existing[0]?.listPrice === row.listPrice &&
       existing[0]?.score === row.score;
-    if (!duplicate) writeArchive([row, ...existing].slice(0, 200));
+    if (!duplicate) {
+      writeArchive([row, ...existing].slice(0, 200));
+      appendSearch(result.pack);
+    }
     setLogged(
       duplicate
         ? "This score is already the latest row in the deal book."

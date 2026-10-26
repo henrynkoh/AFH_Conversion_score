@@ -23,7 +23,7 @@ const GUIDES = [
 
 export default function GuideIndex() {
   return (
-    <main className="mx-auto max-w-3xl px-4 py-10">
+    <article className="mx-auto max-w-3xl px-4 py-10">
       <p className="text-xs tracking-[0.16em] text-copper uppercase">Read this once</p>
       <h1 className="mt-2 font-display text-4xl text-pine">Guides</h1>
       <div className="mt-8 grid gap-3">
@@ -38,6 +38,6 @@ export default function GuideIndex() {
           </Link>
         ))}
       </div>
-    </main>
+    </article>
   );
 }
